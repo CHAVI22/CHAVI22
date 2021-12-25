@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CHAVI G
+- 👋 Hi, I’m CHAVI 
 - 👀 I’m interested in Leaning new technology and coding.
 - 👀 Technical Skills - C,C++,python,Data structure.
 - 🌱 I’m currently learning Web Development.
