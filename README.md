@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **cherry2232002@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Yt67cyh8cvhyEJmeGKv9QAL1UMKigbr6/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
