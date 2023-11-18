@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chavi G Jain</h1>
 <h3 align="center">A passionate about Full Stack Developer and Software Developer Engineer.</h3>
-
-![SDE (2)](https://github.com/CHAVI22/CHAVI22/assets/96656237/9cd824a9-5417-494a-b87e-afde737833db)
+![SDE (2)](https://github.com/CHAVI22/CHAVI22/assets/96656237/c4154aea-ff6e-43eb-abb4-7106b28f5213)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chavi22&label=Profile%20views&color=0e75b6&style=flat" alt="chavi22" /> </p>
 
-- 🔭 I’m currently working on **Backend**
+- 🔭 I’m currently working on **Full Stack Development**
 
 - 🌱 I’m currently learning **React**
 
