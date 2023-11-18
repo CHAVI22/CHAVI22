@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chavi G Jain</h1>
 <h3 align="center">A passionate about Full Stack Developer and Software Developer Engineer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chavi22&label=Profile%20views&color=0e75b6&style=flat" alt="chavi22" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chavi22" alt="chavi22" /></a> </p>
+
 - 🔭 I’m currently working on **Backend**
 
 - 🌱 I’m currently learning **React**
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **cherry2232002@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Yt67cyh8cvhyEJmeGKv9QAL1UMKigbr6/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
